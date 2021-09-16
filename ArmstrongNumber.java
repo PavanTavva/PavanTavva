@@ -1,14 +1,5 @@
 package calculator;
 
-// Armstrong Number
-
-/*
- 	153 --> 1 5 3
- 			1*1*1* + 5*5*5 + 3*3*3
- 			1	+ 125 + 27
- 			153
- 			Therefore, Armstrong Number is a number that is equal to the sum of cubes of its digits.
-*/
  
 
 public class ArmstrongNumber {
